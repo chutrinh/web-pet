@@ -4,4 +4,5 @@ to run it
 2. cd web-pet
 3. npm install
 4. npm start
+
 after running the app succcefully, please register an account and then login to get started
