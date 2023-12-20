@@ -6,3 +6,6 @@ to run it
 
  with interface
  ![](./bet.JPG)
+
+### you can import or export file your pet
+![](./import-or-export.JPG)
