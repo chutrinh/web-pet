@@ -5,4 +5,4 @@ to run it
 - 3. run at localhost://5500
 
  with interface
- ![](./bet.jpg)
+ ![](./bet.JPG)
