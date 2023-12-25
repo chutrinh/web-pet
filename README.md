@@ -27,7 +27,7 @@ Start the server
   npm start
 ```
 
- ### with interface
+ ### OverView interface
  ![](./bet.JPG)
 
 ### you can import or export file your pet
