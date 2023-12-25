@@ -1,8 +1,31 @@
-# This is a pet management website, where we can add, edit, and delete a pet.
-to run it
-- 1. git clone https://github.com/chutrinh/web-pet.git
-- 2. cd web-pet
-- 3. run at localhost://5500
+# Web-pet
+This is a pet management website, where we can add, edit, and delete a pet.
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/chutrinh/web-pet.git
+```
+
+Go to the project directory
+
+```bash
+  cd web-pet
+
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
  with interface
  ![](./bet.JPG)
